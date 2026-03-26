@@ -40,3 +40,8 @@ a {
   font-size: inherit;
   line-height: inherit;
 }
+
+button {
+  background-color: inherit;
+  border: 0px;
+}
